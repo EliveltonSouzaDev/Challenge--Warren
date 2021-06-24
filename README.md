@@ -124,5 +124,5 @@ $ npm start
   <h1>Open Source</h1>
     
   <sub>Warren Transações © 2021</sub>
-  <p>Warren Transações <a href="https://github.com/anvitrola/doarte-app/blob/responsiveness/LICENSE">is MIT licensed </a></p>
+  <p>Warren Transações <a href="https://github.com/EliveltonSouzaDev/Challenge--Warren/blob/main/LICENSE">is MIT licensed </a></p>
 </div>
