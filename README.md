@@ -24,7 +24,7 @@
    
 </p>
 
-<p>A aplicação é uma Single Page Application (SPA), foi construída com React.js e tem integração com <a href="https://docs.awesomeapi.com.br/api-de-moedas">AwesomeAPI</a>.
+<p>A aplicação é uma Single Page Application (SPA), foi construída com React.js e tem integração com <a href="https://warren-transactions-api.herokuapp.com/api/transactions">Warren Api</a>.
   
         
 <div align="center">
