@@ -113,11 +113,11 @@ $ npm start
 ### Dispositivos móveis 📱
 
 <div align="center">
-    <img src="/.github/pagMobile1.png/" width="300" /> 
+    <img src="/.github/pagMobile1.png/" width="400" /> 
 </div>
 
 <div align="center">
-    <img src="/.github/pagMobile2.png/" width="300" /> 
+    <img src="/.github/pagMobile2.png/" width="400" /> 
 </div>
 
 <div align="center">
