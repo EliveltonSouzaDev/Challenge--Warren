@@ -24,7 +24,7 @@
    
 </p>
 
-<p>A aplicação é uma Single Page Application (SPA), foi construída com React.js e tem integração com <a href="https://docs.awesomeapi.com.br/api-de-moedas">AwesomeAPI</a>.
+<p>A aplicação é uma Single Page Application (SPA), foi construída com React.js e tem integração com <a href="https://warren-transactions-api.herokuapp.com/api/transactions">Warren Api</a>.
   
         
 <div align="center">
@@ -113,16 +113,16 @@ $ npm start
 ### Dispositivos móveis 📱
 
 <div align="center">
-    <img src="/.github/pagMobile1.png/" width="300" /> 
+    <img src="/.github/pagMobile1.png/" width="400" /> 
 </div>
 
 <div align="center">
-    <img src="/.github/pagMobile2.png/" width="300" /> 
+    <img src="/.github/pagMobile2.png/" width="400" /> 
 </div>
 
 <div align="center">
   <h1>Open Source</h1>
     
   <sub>Warren Transações © 2021</sub>
-  <p>Warren Transações <a href="https://github.com/anvitrola/doarte-app/blob/responsiveness/LICENSE">is MIT licensed </a></p>
+  <p>Warren Transações <a href="https://github.com/EliveltonSouzaDev/Challenge--Warren/blob/main/LICENSE">is MIT licensed </a></p>
 </div>
