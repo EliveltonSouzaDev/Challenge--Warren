@@ -1,7 +1,7 @@
 import styled from "styled-components";
 
 export const FooterContainer = styled.footer`
-  background-color: #1c1b1f;
+  background-color: var(--black);
   display: flex;
   bottom: 0;
   padding: 1em;
@@ -27,9 +27,9 @@ export const Lists = styled.div`
   h4 {
     margin-bottom: 1rem;
     font-weight: bold;
-    color: #e02b57;
+    color: var(--red);
     :hover {
-      color: whitesmoke;
+      color: var(--white);
     }
   }
   ul {
@@ -37,7 +37,7 @@ export const Lists = styled.div`
     flex-direction: column;
     list-style-type: none;
     li {
-      color: whitesmoke;
+      color: var(--white);
       margin-top: 1rem;
       font-size: 15px;
     }
@@ -71,7 +71,7 @@ export const Signature = styled.div`
     font-family: "Rubik", sans-serif;
     font-weight: 400;
     line-height: 30px;
-    color: whitesmoke;
+    color: var(--white);
   }
   section {
     display: flex;

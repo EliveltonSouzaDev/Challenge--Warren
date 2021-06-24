@@ -26,13 +26,13 @@ function Footer() {
         </p>
 
         <section>
-          <IconContext.Provider value={{ color: "#e02b57", size: "1.7rem" }}>
+          <IconContext.Provider value={{ color: "var(--red)", size: "1.7rem" }}>
             <FaFacebook />
           </IconContext.Provider>
-          <IconContext.Provider value={{ color: "#e02b57", size: "1.7rem" }}>
+          <IconContext.Provider value={{ color: "var(--red)", size: "1.7rem" }}>
             <FaInstagram />
           </IconContext.Provider>
-          <IconContext.Provider value={{ color: "#e02b57", size: "1.7rem" }}>
+          <IconContext.Provider value={{ color: "var(--red)", size: "1.7rem" }}>
             <FaTwitter />
           </IconContext.Provider>
         </section>

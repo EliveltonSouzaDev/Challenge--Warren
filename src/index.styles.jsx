@@ -9,12 +9,14 @@ const GlobalStyle = createGlobalStyle`
 }
 
 :root {
-  --white: rgb(245, 245, 245);
+  --white: white;
   --black: #1c1b1f;
   --gray: rgb(204, 203, 203);
   --lightgray: #d8d8d8;
   --grayline: #ccc;
+  --grayborder: #c2c2c2;
   --red: #e02b57;
+  --orange: #ff9472
 }
 
 body,

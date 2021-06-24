@@ -6,7 +6,7 @@ const Section = styled.div`
   align-items: center;
   flex-direction: column;
   .progress {
-    background-color: #d8d8d8;
+    background-color: var(--gray);
     border-radius: 20px;
     position: relative;
     margin: 15px 0;
@@ -15,10 +15,10 @@ const Section = styled.div`
   }
 
   .progress-done {
-    background: linear-gradient(to left, #e14757, #ff9472);
-    box-shadow: 0 3px 3px -5px #e14757, 0 2px 5px #e14757;
+    background: linear-gradient(to left, var(--red), var(--orange));
+    box-shadow: 0 3px 3px -5px var(--red), 0 2px 5px var(--red);
     border-radius: 20px;
-    color: #fff;
+    color: var(--white);
     display: flex;
     align-items: center;
     justify-content: center;
@@ -26,6 +26,10 @@ const Section = styled.div`
     width: 0;
     opacity: 0;
     transition: 1s ease 0.3s;
+  }
+
+  .progress-done p {
+    color: transparent;
   }
 
   .statusText {

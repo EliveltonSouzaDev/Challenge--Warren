@@ -20,7 +20,7 @@ const ProgressBar = ({ done }) => {
     <Section>
       <div className="progress">
         <div className="progress-done" style={style}>
-          {done}
+          <p>{done}</p>
         </div>
       </div>
       <div className="statusText">

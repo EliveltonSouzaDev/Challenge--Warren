@@ -9,7 +9,7 @@ const Section = styled.section`
     margin: 2rem;
     width: 20%;
     border: none;
-    border-color: #c2c2c2;
+    border-color: var(--grayborder);
     border-radius: 8px;
     padding: 0.5rem;
     font-size: 1.2rem;
@@ -26,7 +26,7 @@ const Section = styled.section`
     margin: 2rem;
     border: none;
 
-    background: #ffff;
+    background: var(--white);
     box-shadow: -1px 3px 9px 4px rgba(216, 213, 213, 0.75);
   }
 

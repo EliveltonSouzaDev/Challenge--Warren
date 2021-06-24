@@ -6,7 +6,7 @@ const Div = styled.div`
   align-items: center;
   justify-content: center;
   height: 100vh;
-  background-color: #e14757;
+  background-color: var(--red);
 
   img {
     width: 20%;
@@ -22,7 +22,7 @@ const Div = styled.div`
     position: absolute;
     left: 8px;
     width: 16px;
-    background: #fff;
+    background: var(--white);
     animation: lds-facebook 1.2s cubic-bezier(0, 0.5, 0.5, 1) infinite;
   }
   .lds-facebook div:nth-child(1) {
